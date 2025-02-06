@@ -1,0 +1,101 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    text-align: center;
+    padding: 50px;
+}
+
+h1 {
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 40px;
+}
+
+button {
+    padding: 15px 30px;
+    margin: 10px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: bold;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+button:hover {
+    transform: scale(1.1);
+}
+
+.increase {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.decrease {
+    background-color: #f44336;
+    color: white;
+}
+
+.reset {
+    background-color: #2196F3;
+    color: white;
+}
+
+.save {
+    background-color: #FFC107;
+    color: white;
+}
+
+button:active {
+    transform: scale(0.98);
+}body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    text-align: center;
+    padding: 50px;
+}
+
+h1 {
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 40px;
+}
+
+button {
+    padding: 15px 30px;
+    margin: 10px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: bold;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+button:hover {
+    transform: scale(1.1);
+}
+
+.increase {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.decrease {
+    background-color: #f44336;
+    color: white;
+}
+
+.reset {
+    background-color: #2196F3;
+    color: white;
+}
+
+.save {
+    background-color: #FFC107;
+    color: white;
+}
+
+button:active {
+    transform: scale(0.98);
+}
